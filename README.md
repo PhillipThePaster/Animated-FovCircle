@@ -6,6 +6,6 @@ This is my animated fov circle i made when i was bored
 also no i did not copy this from panichook
 
 
---SHOWCASE
+-{SHOWCASE}-
 https://youtu.be/LAorz9dD7V8
 ----------------------------
